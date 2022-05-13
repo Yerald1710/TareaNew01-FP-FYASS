@@ -24,12 +24,12 @@ public class Ejercicio05FYASS {
         } else if(genero=="F"){
             System.out.println("Eres una mujer");
         }
-        if (edad>70) {
+        if (edad>69) {
             corresponde="Le corresponde la vacuna tipo C";
-        } else if(edad>16 && edad<70){
+        } else if(edad>16 && edad<69){
             corresponde="Le corresponde la vacuna tipo B"; 
         } else if(edad>16 && edad<70){
-            corresponde="Le corresponde la vacuna tipo C";
+            corresponde="Le corresponde la vacuna tipo A";
         } else {
             corresponde="Le corresponde la vacuna tipo A";
         }    
