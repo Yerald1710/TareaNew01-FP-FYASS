@@ -13,7 +13,7 @@ public class EjerciciosRepetitivas {
             contador++;
         }
         System.out.println("La respuesta es:"+suma);
-    
+        
 }
     public static void main(String[] args) {
         ejer41While();

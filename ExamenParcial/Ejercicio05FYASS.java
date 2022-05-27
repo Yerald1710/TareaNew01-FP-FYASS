@@ -103,7 +103,7 @@ public class Ejercicio05FYASS {
 
     //Proceso
 
-    double puntajeEC = (notaEC * 0.40);
+    double puntajeEC = (notaEC * 0.40); 
     double puntajeEP = (notaEP * 0.35);
     double puntajeTP = (notaTP * 0.25);
     double promedio = (puntajeEC + puntajeEP + puntajeTP);
